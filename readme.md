@@ -1,6 +1,8 @@
 # Currency Converter
 
-![App](https://arkadiusz0809.github.io/Currency-Converter-2/)
+![App](intro_to_readme.gif)
+
+[App](https://arkadiusz0809.github.io/Currency-Converter-2/)
 
 
 
