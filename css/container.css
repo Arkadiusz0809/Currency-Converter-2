@@ -1,6 +1,7 @@
 .container {
-    max-width: 700px;
+    flex-basis: 600px;
     box-shadow: 1px 2px 1px 2px teal;
+    margin: 20px;
     padding: 40px;
     background-color: white;
     display: flex;
